@@ -111,7 +111,7 @@ Trigger the call in your app via:
 
 ```bash
 git clone https://github.com/uzumaki-ak/kaamly.git
-cd kaamly
+cd SchedulAI
 npm install
 npm run dev
 Visit http://localhost:3000
