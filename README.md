@@ -1,6 +1,6 @@
-# Kaamly 🚀
+# SchedulAI 🚀
 
-**Kaamly** is a task automation app that takes natural language instructions like _“Book a salon tomorrow at 4 PM near CP”_ and handles everything — understanding intent, finding a provider, making a real phone call, scheduling the appointment, and emailing you a calendar invite.
+**SchedulAI** is a task automation app that takes natural language instructions like _“Book a salon tomorrow at 4 PM near CP”_ and handles everything — understanding intent, finding a provider, making a real phone call, scheduling the appointment, and emailing you a calendar invite.
 
 ---
 
